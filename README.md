@@ -1,9 +1,9 @@
 ## Credits to those that make these scripts. ##
 
 
-Working Roblox Scripts.
+all scripts are Working on Roblox as of 07/14/2022.
 
-Please create a issue if certain scripts do not work anymore.
+    Please create a issue if certain scripts do not work anymore.
 
 ## Image rendered from https://auto.creavite.co/discord-profile-banners ## 
                             ^^^ Best Photo/gif creator ^^^
