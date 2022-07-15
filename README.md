@@ -13,4 +13,7 @@ all scripts are Working on Roblox as of 07/14/2022.
 </div>
 
 
-    Recommended Executor: Synapse X
+    Recommended Executor: Synapse X Get now @ https://x.synapse.to/
+
+
+[standard (5)](https://user-images.githubusercontent.com/93635451/179141955-9681b2e7-7acd-480c-8959-f1f2d06156af.gif)
