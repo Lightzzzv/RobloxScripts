@@ -1,3 +1,5 @@
+## Credits to those that make these scripts. ##
+
 
 Working Roblox Scripts.
 
