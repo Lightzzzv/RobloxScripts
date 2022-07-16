@@ -1,7 +1,8 @@
 ## Credits to those that make these scripts. ##
 
+*Updated Aimbot - fix size of circle to prevent spinning.*
 
-all scripts are Working on Roblox as of 07/14/2022.
+all scripts are Working on Roblox as of 07/16/2022.
 
     Please create a issue if certain scripts do not work anymore.
 
