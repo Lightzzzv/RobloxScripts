@@ -1,6 +1,6 @@
 ## Credits to those that make these scripts. ##
 
-*Fixed Aimbot - fix size of circle to prevent spinning. you can change via line: *
+*Fixed Aimbot - fix size of circle to prevent spinning. you can change on line: 17*
 
 all scripts are Working on Roblox as of 07/16/2022.
 
