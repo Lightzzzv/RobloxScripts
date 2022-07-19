@@ -1,17 +1,1 @@
---GAME LINK: https://www.roblox.com/games/6407649031/NO-SCOPE-ARCADE-NEW-MAP
-
--- script works.  2022
-
-getgenv().Settings = {
- 
-   Fov = 150,
- 
-   Hitbox = "Head",
- 
-   FovCircle = true,
- 
-}
- 
- 
- 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/WetCheezit/Releases/main/No-Scope-Arcade/Silent%20aim.lua"))()
+no-scope arcade script was detected, no longer works.
